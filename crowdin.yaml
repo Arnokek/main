@@ -1,0 +1,8 @@
+project_identifier: arno
+api_key: 45a7f79127d1fe9d8f092626a82e7b78
+base_url: https://crowdin.com
+base_path: /mnt/crowdin/vitaliy/tests/var/cli/set10
+files:
+  - 
+    source: '/**/*.*'
+    translation: '/%locale%/%original_file_name%'
