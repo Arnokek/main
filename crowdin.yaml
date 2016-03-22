@@ -2,3 +2,12 @@ files:
   - 
     source: '/**/*.*'
     translation: '/%locale%/%original_file_name%'
+  -
+    source: '/**/?[0-9].txt'            #upload a1.txt, folder/a1.txt
+    translation: '/**/%two_letters_code%_%original_file_name%'
+  -
+    source: '/**/*\?*.txt'              #upload crowdin?test.txt, folder/crowdin?test.txt
+    translation: '/**/%two_letters_code%_%original_file_name%'
+  -
+    source: '/**/[^0-2].txt'            #upload 3.txt, folder/3.txt, a.txt, folder/a.txt (ignore 1.txt, folder/1.txt)
+    translation: '/**/%two_letters_code%_%original_file_name%'
