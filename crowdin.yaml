@@ -1,4 +1,4 @@
 files:
   - 
-    source: '/**/*.*'
+    source: '/**/*.doc'
     translation: '/**/%locale%/%original_file_name%'
