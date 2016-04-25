@@ -1,4 +1,4 @@
 files:
   - 
-    source: '/**/*.*'
+    source: '/**/*.xml'
     translation: '/**/%locale%/%original_file_name%'
