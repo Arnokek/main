@@ -1,4 +1,3 @@
-project_identifier: cli-test
 api_key: 0fb03b37ebf3ccdf19fd670a63d55fe8
 base_url: http://nazar.crowdin.com
 base_path: /home/crowdin/nazar/tests/var/cli/set4
