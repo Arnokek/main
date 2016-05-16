@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: github\n"
+"Project-Id-Version: multisite\n"
 "POT-Creation-Date: 2003-08-08 16:33+0200\n"
-"PO-Revision-Date: 2016-04-26 16:03+0300\n"
+"PO-Revision-Date: 2016-05-16 05:26-0400\n"
 "Last-Translator: Arnok <mistikal91@gmail.com>\n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: crowdin.com\n"
-"X-Crowdin-Project: github\n"
+"X-Crowdin-Project: multisite\n"
 "X-Crowdin-Language: fr\n"
 "X-Crowdin-File: /master/locale/en/3.po\n"
 "Language: fr_FR\n"
@@ -67,7 +67,7 @@ msgstr "Aucun serveur specifiedd25237016cf1a820"
 #: ..\..\..\b2evocore\_class_pop3.php:552
 #: ..\..\..\b2evocore\_class_pop3.php:575
 msgid "Errord25237016cf1a821 "
-msgstr "Errord25237016cf1a821 "
+msgstr "3"
 
 #: ..\..\..\b2evocore\_class_pop3.php:108
 #, fuzzy
@@ -76,7 +76,7 @@ msgstr ""
 
 #: ..\..\..\b2evocore\_class_pop3.php:118
 msgid "POP3 noop:d25237016cf1a823"
-msgstr "POP3 noop:d25237016cf1a823"
+msgstr "1"
 
 #: ..\..\..\b2evocore\_class_pop3.php:118
 #: ..\..\..\b2evocore\_class_pop3.php:184
@@ -242,11 +242,11 @@ msgstr "% des commentaires"
 
 #: ..\..\..\b2evocore\_edit_showposts.php:114
 msgid ", 1 TrackBack"
-msgstr ", 1 TrackBack"
+msgstr "5"
 
 #: ..\..\..\b2evocore\_edit_showposts.php:114
 msgid ", % TrackBacks"
-msgstr ", % TrackBacks"
+msgstr "4"
 
 #. TRANS: When the categories for a specific post are displayed, the user can click
 #. on these cats to browse them, this is the default href title displayed there
@@ -256,15 +256,15 @@ msgstr "Parcourir la catégorie"
 
 #: ..\..\..\b2evocore\_functions_comments.php:149
 msgid "TrackBack (0)"
-msgstr "TrackBack (0)"
+msgstr "3"
 
 #: ..\..\..\b2evocore\_functions_comments.php:150
 msgid "TrackBack (1)"
-msgstr "TrackBack (1)"
+msgstr "2"
 
 #: ..\..\..\b2evocore\_functions_comments.php:151
 msgid "TrackBacks (%)"
-msgstr "TrackBacks (%)"
+msgstr "1"
 
 #: ..\..\..\b2evocore\_functions_trackback.php:152
 msgid "Leave a comment..."
@@ -292,7 +292,7 @@ msgstr "Sortie d'Articles"
 
 #: ..\..\..\b2evocore\_menutop.php:134
 msgid "Logout"
-msgstr "Logout"
+msgstr "1"
 
 #: ..\..\..\conf\b2evo_locale.php:53
 msgid "Sunday"
