@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: github\n"
+"POT-Creation-Date: 2003-08-08 16:33+0200\n"
+"PO-Revision-Date: 2016-05-27 15:26+0300\n"
+"Last-Translator: Arnok <mistikal91@gmail.com>\n"
+"Language-Team: Ukrainian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: github\n"
+"X-Crowdin-Language: uk\n"
+"X-Crowdin-File: /master/locale/en/3.po\n"
+"Language: uk_UA\n"
+
+#: ..\..\..\noskin_a.php:315
+#: ..\..\..\noskin_all.php:317
+#: ..\..\..\noskin_b.php:316
+#: ..\..\..\noskin_roll.php:315
+#: ..\..\..\skins\babyblues\_main.php:103
+#: ..\..\..\skins\bluesky\_main.php:222
+#: ..\..\..\skins\custom\_main.php:260
+#: ..\..\..\skins\fplanque2002\_main.php:289
+#: ..\..\..\skins\guadeloupe\_main.php:222
+#: ..\..\..\skins\originalb2\_main.php:159
+#, php-format
+msgid "Totals: %d posts - %d queries - %01.3f secondsd25237016cf1a81a"
+msgstr "Підсумки: %d повідомлення - %d запитів - %01.3f secondsd25237016cf1a81a"
+
+#: ..\..\..\admin\b2edit.php:55
+msgid "New post in blogd25237016cf1a81b:"
+msgstr "Новий пост в blogd25237016cf1a81b:"
+
+#: ..\..\..\admin\b2edit.php:100
+msgid "Editing postd25237016cf1a81c"
+msgstr "Редагування postd25237016cf1a81c"
+
+#: ..\..\..\admin\b2edit.php:145
+msgid "Editing commentd25237016cf1a81d"
+msgstr "Редагування commentd25237016cf1a81d"
+
+#: ..\..\..\admin\b2edit.php:175
+msgid "Browse blogd25237016cf1a81e:"
+msgstr "Перегляд blogd25237016cf1a81e:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:80
+#: ..\..\..\b2evocore\_class_pop3.php:88
+#: ..\..\..\b2evocore\_class_pop3.php:100
+msgid "POP3 connectd25237016cf1a81f:"
+msgstr "POP3 connectd25237016cf1a81f:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:80
+msgid "No server specifiedd25237016cf1a820"
+msgstr "Немає сервер specifiedd25237016cf1a820"
+
+#: ..\..\..\b2evocore\_class_pop3.php:88
+#: ..\..\..\b2evocore\_class_pop3.php:100
+#: ..\..\..\b2evocore\_class_pop3.php:139
+#: ..\..\..\b2evocore\_class_pop3.php:274
+#: ..\..\..\b2evocore\_class_pop3.php:328
+#: ..\..\..\b2evocore\_class_pop3.php:339
+#: ..\..\..\b2evocore\_class_pop3.php:387
+#: ..\..\..\b2evocore\_class_pop3.php:420
+#: ..\..\..\b2evocore\_class_pop3.php:453
+#: ..\..\..\b2evocore\_class_pop3.php:552
+#: ..\..\..\b2evocore\_class_pop3.php:575
+msgid "Errord25237016cf1a821 "
+msgstr "Errord25237016cf1a821 "
+
+#: ..\..\..\b2evocore\_class_pop3.php:108
+#, fuzzy
+msgid "POP3: premature NOOP OK, NOT an RFC 1939 Compliant d25237016cf1a822server"
+msgstr ""
+
+#: ..\..\..\b2evocore\_class_pop3.php:118
+msgid "POP3 noop:d25237016cf1a823"
+msgstr "POP3 noop:d25237016cf1a823"
+
+#: ..\..\..\b2evocore\_class_pop3.php:118
+#: ..\..\..\b2evocore\_class_pop3.php:184
+#: ..\..\..\b2evocore\_class_pop3.php:233
+#: ..\..\..\b2evocore\_class_pop3.php:258
+#: ..\..\..\b2evocore\_class_pop3.php:300
+#: ..\..\..\b2evocore\_class_pop3.php:374
+#: ..\..\..\b2evocore\_class_pop3.php:413
+#: ..\..\..\b2evocore\_class_pop3.php:443
+#: ..\..\..\b2evocore\_class_pop3.php:477
+#: ..\..\..\b2evocore\_class_pop3.php:540
+#: ..\..\..\b2evocore\_class_pop3.php:608
+msgid "No connection to server"
+msgstr "Немає підключення до сервера"
+
+#: ..\..\..\b2evocore\_class_pop3.php:131
+#: ..\..\..\b2evocore\_class_pop3.php:134
+#: ..\..\..\b2evocore\_class_pop3.php:139
+msgid "POP3 user:"
+msgstr "POP3 користувача:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:131
+#: ..\..\..\b2evocore\_class_pop3.php:190
+msgid "No login ID submitted"
+msgstr "Немає Ідентифікатор входу, про"
+
+#: ..\..\..\b2evocore\_class_pop3.php:134
+#: ..\..\..\b2evocore\_class_pop3.php:154
+msgid "connection not established"
+msgstr "з'єднання не встановлено"
+
+#: ..\..\..\b2evocore\_class_pop3.php:151
+#: ..\..\..\b2evocore\_class_pop3.php:154
+#: ..\..\..\b2evocore\_class_pop3.php:159
+#: ..\..\..\b2evocore\_class_pop3.php:168
+msgid "POP3 pass:"
+msgstr "POP3 прохід:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:151
+#: ..\..\..\b2evocore\_class_pop3.php:193
+msgid "No password submitted"
+msgstr "Без пароля, про"
+
+#: ..\..\..\b2evocore\_class_pop3.php:159
+msgid "authentication failed "
+msgstr "помилка автентифікації "
+
+#: ..\..\..\b2evocore\_class_pop3.php:168
+#: ..\..\..\b2evocore\_class_pop3.php:217
+msgid "NOOP failed. Server not RFC 1939 compliant"
+msgstr "НООП не вдалося. Сервер не RFC 1939 року сумісний"
+
+#: ..\..\..\b2evocore\_class_pop3.php:184
+#: ..\..\..\b2evocore\_class_pop3.php:190
+#: ..\..\..\b2evocore\_class_pop3.php:193
+#: ..\..\..\b2evocore\_class_pop3.php:198
+#: ..\..\..\b2evocore\_class_pop3.php:208
+#: ..\..\..\b2evocore\_class_pop3.php:217
+msgid "POP3 apop:"
+msgstr "POP3 apop:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:198
+#, fuzzy
+msgid "No server banner"
+msgstr ""
+
+#: ..\..\..\b2evocore\_class_pop3.php:198
+#: ..\..\..\b2evocore\_class_pop3.php:208
+msgid "abort"
+msgstr "перервати"
+
+#: ..\..\..\b2evocore\_class_pop3.php:208
+msgid "apop authentication failed"
+msgstr "apop помилка автентифікації"
+
+#: ..\..\..\b2evocore\_class_pop3.php:233
+msgid "POP3 login:"
+msgstr "POP3 Логін:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:258
+#: ..\..\..\b2evocore\_class_pop3.php:274
+msgid "POP3 top:"
+msgstr "POP3 зверху:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:300
+#: ..\..\..\b2evocore\_class_pop3.php:328
+#: ..\..\..\b2evocore\_class_pop3.php:339
+#: ..\..\..\b2evocore\_class_pop3.php:351
+msgid "POP3 pop_list:"
+msgstr "POP3 pop_list:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:351
+msgid "Premature end of list"
+msgstr "Передчасний кінець списку"
+
+#: ..\..\..\b2evocore\_class_pop3.php:374
+#: ..\..\..\b2evocore\_class_pop3.php:387
+msgid "POP3 get:"
+msgstr "POP3 отримати:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:413
+#: ..\..\..\b2evocore\_class_pop3.php:420
+msgid "POP3 last:"
+msgstr "POP3 минулого:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:443
+#: ..\..\..\b2evocore\_class_pop3.php:453
+msgid "POP3 reset:"
+msgstr "POP3 скинути:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:477
+#: ..\..\..\b2evocore\_class_pop3.php:483
+msgid "POP3 send_cmd:"
+msgstr "POP3 send_cmd:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:483
+msgid "Empty command string"
+msgstr "Порожній командного рядка"
+
+#: ..\..\..\b2evocore\_class_pop3.php:503
+msgid "POP3 quit:"
+msgstr "POP3 кинути:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:503
+msgid "connection does not exist"
+msgstr "підключення не існує"
+
+#: ..\..\..\b2evocore\_class_pop3.php:540
+#: ..\..\..\b2evocore\_class_pop3.php:552
+#: ..\..\..\b2evocore\_class_pop3.php:575
+msgid "POP3 uidl:"
+msgstr "POP3 uidl:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:608
+#: ..\..\..\b2evocore\_class_pop3.php:613
+#: ..\..\..\b2evocore\_class_pop3.php:619
+msgid "POP3 delete:"
+msgstr "POP3 видалити:"
+
+#: ..\..\..\b2evocore\_class_pop3.php:613
+msgid "No msg number submitted"
+msgstr "Не msg номер про"
+
+#: ..\..\..\b2evocore\_class_pop3.php:619
+msgid "Command failed "
+msgstr "Помилка команди "
+
+#. TRANS: Link to comments for current post
+#: ..\..\..\b2evocore\_edit_showposts.php:113
+msgid "no comment"
+msgstr "Без коментарів"
+
+#: ..\..\..\b2evocore\_edit_showposts.php:113
+#: ..\..\..\b2evocore\_functions_trackback.php:153
+msgid "1 comment"
+msgstr "1 коментар"
+
+#: ..\..\..\b2evocore\_edit_showposts.php:113
+#: ..\..\..\b2evocore\_functions_trackback.php:154
+#, php-format
+msgid "% comments"
+msgstr "% коментарів"
+
+#: ..\..\..\b2evocore\_edit_showposts.php:114
+msgid ", 1 TrackBack"
+msgstr ", 1 TrackBack"
+
+#: ..\..\..\b2evocore\_edit_showposts.php:114
+msgid ", % TrackBacks"
+msgstr ", % Зворотні посилання"
+
+#. TRANS: When the categories for a specific post are displayed, the user can click
+#. on these cats to browse them, this is the default href title displayed there
+#: ..\..\..\b2evocore\_functions_cats.php:611
+msgid "Browse category"
+msgstr "Перегляд категорії"
+
+#: ..\..\..\b2evocore\_functions_comments.php:149
+msgid "TrackBack (0)"
+msgstr "TrackBack (0)"
+
+#: ..\..\..\b2evocore\_functions_comments.php:150
+msgid "TrackBack (1)"
+msgstr "TrackBack (1)"
+
+#: ..\..\..\b2evocore\_functions_comments.php:151
+msgid "TrackBacks (%)"
+msgstr "Зворотні посилання (%)"
+
+#: ..\..\..\b2evocore\_functions_trackback.php:152
+msgid "Leave a comment..."
+msgstr "Залишити свій коментар..."
+
+#: ..\..\..\b2evocore\_menutop.php:103
+msgid "New Post"
+msgstr "Нова посада"
+
+#: ..\..\..\b2evocore\_menutop.php:105
+msgid "Browse/Edit"
+msgstr "Перегляд та редагування"
+
+#: ..\..\..\b2evocore\_menutop.php:125
+msgid "Users"
+msgstr "Користувачі"
+
+#: ..\..\..\b2evocore\_menutop.php:127
+msgid "My Profile"
+msgstr "Мій профіль"
+
+#: ..\..\..\b2evocore\_menutop.php:132
+msgid "Exit to blogs"
+msgstr "Вийти на блоги"
+
+#: ..\..\..\b2evocore\_menutop.php:134
+msgid "Logout"
+msgstr "Вихід із системи"
+
+#: ..\..\..\conf\b2evo_locale.php:53
+msgid "Sunday"
+msgstr "Неділя"
+
+#: ..\..\..\conf\b2evo_locale.php:54
+msgid "Monday"
+msgstr "Понеділок"
+
+#: ..\..\..\conf\b2evo_locale.php:55
+msgid "Tuesday"
+msgstr "Вівторок"
+
+#: ..\..\..\conf\b2evo_locale.php:56
+msgid "Wednesday"
+msgstr "Середа"
+
+#: ..\..\..\conf\b2evo_locale.php:57
+msgid "Thursday"
+msgstr "Четвер"
+
+#: ..\..\..\conf\b2evo_locale.php:58
+msgid "Friday"
+msgstr "П'ятниця"
+
+#: ..\..\..\conf\b2evo_locale.php:59
+msgid "Saturday"
+msgstr "Субота"
+
+#: ..\..\..\conf\b2evo_locale.php:62
+msgid "January"
+msgstr "Січень"
+
+#: ..\..\..\conf\b2evo_locale.php:63
+msgid "February"
+msgstr "Лютий"
+
+#: ..\..\..\conf\b2evo_locale.php:64
+msgid "March"
+msgstr "Березня"
+
+#: ..\..\..\conf\b2evo_locale.php:65
+msgid "April"
+msgstr "Квітень"
+
+#: ..\..\..\conf\b2evo_locale.php:66
+msgid "May"
+msgstr "Травень"
+
+#: ..\..\..\conf\b2evo_locale.php:67
+msgid "June"
+msgstr "Червень"
+
+#: ..\..\..\conf\b2evo_locale.php:68
+msgid "July"
+msgstr "Липень"
+
+#: ..\..\..\conf\b2evo_locale.php:69
+msgid "August"
+msgstr "Сер"
+
+#: ..\..\..\conf\b2evo_locale.php:70
+msgid "September"
+msgstr "Вересень"
+
+#: ..\..\..\conf\b2evo_locale.php:71
+msgid "October"
+msgstr "Жовтень"
+
+#: ..\..\..\conf\b2evo_locale.php:72
+msgid "November"
+msgstr "Листопад"
+
+#: ..\..\..\conf\b2evo_locale.php:73
+msgid "December"
+msgstr "Грудень"
+
+#: ..\..\..\skins\fplanque2002\_main.php:105
+msgctxt "1"
+msgid ", Categories: "
+msgstr ", Категорій: "
+
+#: ..\..\..\skins\fplanque2002\_main.php:105
+msgctxt "2"
+msgid ", Categories: "
+msgstr ", Категорій: "
+
