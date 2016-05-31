@@ -1,4 +1,5 @@
 files:
   - 
     source: '/locale/en/**/*.*'
-    translation:
+    translation: '/locale/%two_letters_code%/**/%original_file_name%'
+    scheme: bla,bla,bla
