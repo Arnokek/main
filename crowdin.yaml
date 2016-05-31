@@ -1,7 +1,1 @@
-api_key: veryfake
-base_url: http://nazar.crowdin.com
-base_path: /home/crowdin/nazar/tests/var/cli/set4
-files:
-  - 
-    source: '/locale/en/**/*.*'
-    translation: '/locale/%two_letters_code%/**/%original_file_name%'
+files: bla
