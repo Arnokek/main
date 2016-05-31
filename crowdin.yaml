@@ -1,1 +1,4 @@
-
+files:
+  - 
+    source: '/locale/en/**/*.txt'
+    translation: '/locale/%two_letters_code%/**/%original_file_name%'
