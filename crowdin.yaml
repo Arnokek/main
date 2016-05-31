@@ -1,4 +1,4 @@
 #Crowdin stuff
 files:
   -
-    source:
+    source: '/locale/en/**/*.*'
