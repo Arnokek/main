@@ -1,2 +1,4 @@
 files:
   - 
+    source: '/locale/en/**/*.*'
+    translation:
